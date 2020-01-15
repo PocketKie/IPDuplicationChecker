@@ -1,2 +1,2 @@
 # IPDuplicationChecker
-This Spigot plugin checks the IP duplication of Players.
+_Under planning..._
